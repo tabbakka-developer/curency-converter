@@ -1,0 +1,11 @@
+{
+    "name": "tabbakka/currency-converter",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vladyslav Popov",
+            "email": "vladpopov90@gmail.com"
+        }
+    ],
+    "require": {}
+}
